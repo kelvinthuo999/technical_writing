@@ -16,7 +16,7 @@
 - Stick to one term throughout the document. Avoid renaming things.
 - Spell out unfamiliar acronym and the put the acronym in parentheses. Both should be in bold.
 - If an acronyms is used a few times, don't define it.
-- An acronym should only be defined only if; 
+- An acronym should only be defined only if: 
 	1. It is significantly shorter than the full term.
 	2. Appears many times in the document.
 - Avoid pronouns by all means. 
@@ -26,4 +26,6 @@
 	3. in case of a second pronoun, use the noun instead of the pronoun.
 
 ### Active voice
+
+- Sentences in technical writing should be in active voice.
 - 
