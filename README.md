@@ -1,7 +1,7 @@
 # NOTES
 ## Grammar
 ### Just enough grammar
-- Noun: a person, place, concepr, or thing.
+- Noun: a person, place, concept, or thing.
 - Pronoun: a noun that replaces another noun.
 - Adjective: a word or phrase that modifies a noun.
 - Verb: an action word or phrase. E.g are, likes, prefers, runs.
@@ -49,7 +49,7 @@
 - Technical writers aim to be clear.
 - Choosing precise, strong, specific verbs may take time but produces more satisfying results.
 - Strong verbs ignites more engaging sentences.
-- Reduce use of there is/ there are by providing a real object and a real verb.
+- Reduce use of 'there is'/ 'there are' by providing a real object and a real verb.
 - Placing numerical information in places of verbs add more credibility and accuracy to the statement.
 - Key takeaway in this chapter include having stronger be verbs which require alot of research.
 
