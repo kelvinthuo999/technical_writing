@@ -71,4 +71,42 @@
 
 ###  Lists and tables
 
--
+- Lists make things orderly.
+- Three kinds of lists majorly used include:
+	- bulleted lists
+	- numbered lists
+	- embedded lists
+- Bulleted list is for unordered items whereas numbered list is for ordered items.
+- A writer should strive to change embedded lists into one of the other two kinds of lists( bulleted or numbered).
+- Effective lists are parallel in all forms, that is, logical category, lower case, and without periods or commas.
+- Imperative verbs are the best option to start numbered lists.
+- Use proper capitalization and puctuation for items in a list.
+- For useful table, do the following:
+	- Label each column with a meaningful header.
+	- Put just enough text into a table cell.
+	- Strive for parallelism within individual columns.
+- Introduce each list and table with a sentence that represent items present in the list.
+
+### Paragraphs
+
+- Focus most energy in writing great opening sentences.
+- Each paragraph should represent an independent unit of logic.
+- Don't make paragraphs too long or too short.
+- Great paragraphs answer the following:
+	1. What are you trying to tell the readers?
+	2. Why is it important?
+	3. How should the reader use this knowledge?
+
+### Audience
+
+- good documentation = knowledge and skills your audience needs to do a task − your audience's current knowledge and skills.
+- To achieve a good documentation, do the following:
+	- Define the audience.
+	- Determine what the audience needs to learn.
+	- Fit documentation to your audience.
+- Match the correct vocabulary to the correct audience.
+- Avoid the curse of knowledge where an expert of something assumes newcomers are also experts on the specific topic.
+- Use simpler words in the documentation.
+
+### Documents
+
