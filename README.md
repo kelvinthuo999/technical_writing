@@ -110,3 +110,23 @@
 
 ### Documents
 
+- A good document begins by defining its scope and its non-scope.
+- A good document explicitly specifies its audience.
+- Always state your audience.
+- Summarize key points at the start.
+- Compare and contrast new technology to old technology.
+- The document should focus on the audience's needs.
+
+### Punctuation
+
+- Use a comma to separate items in an embedded list.
+- Wedge a quick definition between two commas.
+- A semicolon unites highly related thoughts.
+- Thoughts preceding and following the semicolon should be grammatically complete sentences.
+- An em dash represents a longer pause -- a bigger break -- than a comma.
+- Parentheses hold minor points and digressions.
+
+### Markdown
+
+
+
