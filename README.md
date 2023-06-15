@@ -128,5 +128,35 @@
 
 ### Markdown
 
+- **Markdown** is a lightweight markup language used to create and edit technical documents.
+- Technical documents are written in a plain text editor.
+- Surround a word with an underscore to make it _italic_.
+- Two asterisks on each side of a word make it **bold** in Markdown.
+- Hash mark are used a preface of a phrase to make it a heading.
+- Wrapping a link in brackets and wrapping the link in parentheses makes an inline link.
+- To create an inline image link, do the following:
+	* enter the exclamation point (!)
+	* wrap the alt text in brackets ([ ])
+	* wrap the link in parentheses( () )
+- >Preface a line with a greater than caret (>) to make it a block quote.
+- An asterisk is used to create an unordered list.
 
+# Summary
+
+- Use terms consistently.
+- Avoid ambiguous pronouns.
+- Prefer active voice to passive voice.
+- Pick specific verbs over vague ones.
+- Focus each sentence on a single idea.
+- Convert some long sentences to lists.
+- Eliminate unneeded words.
+- Use a numbered list when ordering is important and a bulleted list when ordering is irrelevant.
+- Keep list items parallel.
+- Start numbered list items with imperative words.
+- Introduce lists and tables appropriately.
+- Create great opening sentences that establish a paragraph's central point.
+- Focus each paragraph on a single topic.
+- Determine what your audience needs to learn.
+- Fit documentation to your audience.
+- Establish your document's key points at the start of the document.
 
